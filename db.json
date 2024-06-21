@@ -1,0 +1,22 @@
+{
+  "contatos": [
+    {
+      "nome": "João Pedro Figueiredo do Valle",
+      "telefone": "(31)99654279",
+      "email": "joaopedrofvalle@gmail.biz",
+      "cidade": "Belo Horizonte",
+      "categoria": "amigos",
+      "website": "https://github.com/joaopfigo/Reposit-rio",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Mariana Yuna Campos Miyamoto",
+      "cidade": "Belo Horizonte",
+      "categoria": "amigos",
+      "email": "marianayuna.campos@gmail.com",
+      "telefone": "(31) 988850076",
+      "website": "https://github.com/nayupoet/Reposit-rio"
+    }
+  ]
+}
